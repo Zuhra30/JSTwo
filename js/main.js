@@ -55,7 +55,7 @@ if(result >= PeopleAge){
 
 
 var price = parseInt(prompt("Ballingzini kiriting...", "").trim(), 10);
-if(price === 5){
+if(price >= 5){
     alert("a'lo");
 }else if(price === 4){
     alert("yaxshi");
